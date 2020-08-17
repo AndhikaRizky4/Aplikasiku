@@ -32,12 +32,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:adjustViewBounds="false"
-                    android:background="#717171"
                     android:cropToPadding="true"
                     android:padding="0dp"
                     android:paddingBottom="0dp"
-                    android:scaleType="centerCrop"
-                    android:src="" />
+                    android:scaleType="centerCrop"/>
 
                 <TextView
                     android:id="@+id/articleName1"
@@ -91,8 +89,7 @@
                     android:cropToPadding="true"
                     android:padding="0dp"
                     android:paddingBottom="0dp"
-                    android:scaleType="centerCrop"
-                    android:src="" />
+                    android:scaleType="centerCrop"/>
 
                 <TextView
                     android:id="@+id/articleName2"
